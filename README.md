@@ -1,6 +1,6 @@
 # data_generator
 
-1. By default, the source databse is Oracle. If you want to change the data source, you could add relevant driver into <dependency> in pom.xml
+1. By default, the source databse is Oracle. If you want to change the data source, you could add relevant driver into dependency in pom.xml
 2. Use Maven to build project
 3. Edit src/main/resources/application.properties. The first part is connection properties, the second part is runtime configuration
   
